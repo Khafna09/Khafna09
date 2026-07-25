@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/hector-rp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://khafna09.github.io/Portfolio" target="_blank">
+  <a href="https://portfolio-five-weld-41.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
